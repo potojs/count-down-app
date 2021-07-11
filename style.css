@@ -155,3 +155,13 @@ body {
 .finished-cd-title {
   text-align: left;
 }
+.remove-cd-btn {
+  background-color: transparent;
+  border: none;
+  width: 6px;
+  height: 6px;
+}
+.remove-cd-btn:hover {
+  background-color: var(--main-gray);
+  color: white;
+}
